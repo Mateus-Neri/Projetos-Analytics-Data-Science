@@ -74,16 +74,16 @@ Variáveis como `gender` e `course` foram removidas por não apresentarem relaç
 ## 📈 Métricas de Avaliação
 
 | Métrica | Resultado |
-|------|----------|
-| MAE | **8.64** |
-| MSE | **115.38** |
-| RMSE | **≈ 10.7** |
-| R² | **≈ 0.67** |
+|--------|-----------|
+| MAE | **7.93** |
+| MSE | **96.68** |
+| RMSE | **≈ 9.83** |
+| R² | **≈ 0.73** |
 
 ### Interpretação
-- O modelo erra, em média, **~9 pontos** na nota final
-- Explica cerca de **67% da variância** das notas
-- Performance consistente para um problema educacional realista
+- O modelo erra, em média, **~8 pontos** na nota final  
+- Explica cerca de **73% da variância** das notas  
+- Indica uma **boa capacidade preditiva** para um problema educacional realista, sem sinais evidentes de overfitting
 
 ---
 
