@@ -107,4 +107,24 @@ Variáveis como `gender` e `course` foram removidas por não apresentarem relaç
 
 ---
 
-## 📁 Estrutura do Repositório
+## 🚀 Próximos Passos
+
+- Comparar com outros modelos (Linear, Random Forest)
+- Avaliar feature importance com permutation importance
+- Criar pipeline completo com `ColumnTransformer`
+- Exportar modelo treinado
+
+---
+
+## 👤 Autor
+
+**Mateus Neri**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+Foco em Análise e Ciência de Dados.
+
+📎 GitHub: https://github.com/Mateus-Neri
+
+---
+
+### 🧠 Observação final
+Este projeto prioriza **clareza, interpretação e tomada de decisão baseada em dados**, não apenas métricas.
